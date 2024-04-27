@@ -1,0 +1,54 @@
+.ecss{
+              color: blue;
+              font-size: 50px;
+
+}
+
+
+.a{
+	color: green;
+}
+
+
+.b{
+
+	color: limegreen;
+}
+.table_1_heading{
+	width: 500px;
+	height: 30px;
+}
+
+.table_1_td{
+	height: 30px;
+	text-align: center;
+}
+
+.table_2_heading{
+	width: 500px;
+	height: 30px;
+}
+
+.table_2_td{
+	height: 30px;
+	text-align: center;
+}
+
+.table_3_heading{
+	width: 500px;
+	height: 30px;
+}
+
+.table_3_td{
+	height: 30px;
+	text-align: center;
+}
+.table_4_heading{
+	width: 500px;
+	height: 30px;
+}
+
+.table_4_td{
+	height: 30px;
+	text-align: center;
+}
